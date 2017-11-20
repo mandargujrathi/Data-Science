@@ -16,7 +16,7 @@ To run this script you will require
 
 (b) MATLAB 2017b, Statistics and Machine Learning Toolbox.
 
-(c) The main script, NYC_trips.mlx
+(c) The zipped folder NYCtrips.zip which contains the main script, NYC_trips.mlx and also
 
 (d) Helper functions for Curve fitting createFit.m, createFit1.m,createFit3.m,createFit4.m
 
